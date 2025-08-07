@@ -1,6 +1,6 @@
 import React from "react";
 import ParticlesBackground from "./ParticlesBackground";
-import profilePic from "./portrait_photo.png";
+import profilePic from "../assets/portrait_photo.png";
 import "./LandingPage.css";
 
 const LandingPage = () => (
