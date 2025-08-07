@@ -31,6 +31,8 @@
   cursor: pointer;
   user-select: none;
   transition: color 0.25s ease;
+  padding-left: 1rem;
+  padding-top: 0.4rem;
 }
 
 .navbar-hamburger:hover,
