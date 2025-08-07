@@ -1,0 +1,27 @@
+.about-section {
+  position: relative;
+  z-index: 2;
+  font-family: monospace;
+  background: rgba(22,22,22, 0.98);
+  max-width: 800px;
+  width: 90vw;
+  margin: 2.5rem auto 0 auto;
+  padding: 2.5rem 2rem;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px 0 rgba(0,0,0,0.28);
+  color: #fafbfc;
+  text-align: left;
+}
+
+.about-section h2 {
+  margin-bottom: 1.25rem;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #55eaff;
+}
+
+.about-section p {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
