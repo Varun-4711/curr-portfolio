@@ -1,4 +1,3 @@
-// src/components/Skills/SkillBlock.jsx
 import React from "react";
 
 const SkillBlock = ({ skill }) => (

@@ -84,7 +84,7 @@
 }
 
 /* Responsive styles for screens below 768px width */
-@media (max-width: 768px) {
+@media (max-width: 890px) {
   .navbar-hamburger {
     display: block;
   }

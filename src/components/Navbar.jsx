@@ -1,7 +1,6 @@
-// src/components/Navbar/Navbar.jsx
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import "./Navbar.css";
+import "./css/Navbar.css";
 
 const sections = [
   { id: "home", label: "Home" },

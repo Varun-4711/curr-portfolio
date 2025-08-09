@@ -3,7 +3,7 @@ import Particles from "react-tsparticles";
 import { loadSlim } from "tsparticles-slim";
 
 const ParticlesBackground = () => {
-  // Initialize tsParticles engine
+  // Initializing tsParticles engine
   const particlesInit = useCallback(async (engine) => {
     await loadSlim(engine);
   }, []);
@@ -16,7 +16,7 @@ const ParticlesBackground = () => {
   const options = {
     fullScreen: { enable: true, zIndex: +1 },
     fpsLimit: 120,
-    background: { color: "#161616" }, // match your theme
+    background: { color: "#161616" }, // matching theme
     interactivity: {
       events: {
         onClick: { enable: true, mode: "push" },

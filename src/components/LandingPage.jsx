@@ -1,7 +1,7 @@
 import React from "react";
 import ParticlesBackground from "./ParticlesBackground";
 import profilePic from "../assets/portrait_photo.png";
-import "./LandingPage.css";
+import "./css/LandingPage.css";
 
 const LandingPage = () => (
   <div id="home" className="landing-container">

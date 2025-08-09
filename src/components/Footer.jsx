@@ -1,7 +1,6 @@
-// src/components/Footer.jsx
 import React from "react";
-import { FaGithub, FaEnvelope, FaLinkedin } from "react-icons/fa";  // GitHub, Gmail icons
-import "./Footer.css";
+import { FaGithub, FaEnvelope, FaLinkedin } from "react-icons/fa";  // GitHub, Gmail, LinkedIn icons
+import "./css/Footer.css";
 
 const Footer = () => {
   return (

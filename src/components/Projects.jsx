@@ -1,8 +1,7 @@
-// src/components/Projects/Projects.jsx
 import React from "react";
 import projectsData from "../data/projectsData";
 import ProjectCard from "./ProjectCard";
-import "./Projects.css";
+import "./css/Projects.css";
 
 const Projects = () => (
   <section id="projects" className="projects-section">

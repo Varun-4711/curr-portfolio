@@ -1,8 +1,7 @@
-// src/components/Experience/Experience.jsx
 import React from "react";
 import experienceData from "../data/experienceData";
 import ExperienceItem from "./ExperienceItem";
-import "./Experience.css"; // Timeline styling will go here later
+import "./css/Experience.css"; // Timeline styling 
 
 const Experience = () => (
   <section id="experience" className="experience-section">

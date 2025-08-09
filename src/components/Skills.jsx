@@ -1,8 +1,7 @@
-// src/components/Skills/Skills.jsx
 import React from "react";
 import skillsData from "../data/skillsData";
 import SkillBlock from "./SkillBlock";
-import "./Skills.css";
+import "./css/Skills.css";
 
 const Skills = () => (
   <section id="skills" className="skills-section">

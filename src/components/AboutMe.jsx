@@ -1,5 +1,5 @@
 import React from "react";
-import "./AboutMe.css";
+import "./css/AboutMe.css";
 
 const AboutMe = () => (
   <section id="about_me" className="about-section">
@@ -10,7 +10,7 @@ const AboutMe = () => (
     <p>
     My experience spans hands-on work from full-stack web development to micro-patterning techniques for next-gen microfabrication, blending software with emerging technology. On the side, I also dive into finance, making short films and appreciating cinematography. Let’s connect and build something innovative!
     </p>
-    {/* You can add highlights or a small list if you wish */}
+    {/* ----- */}
   </section>
 );
 
