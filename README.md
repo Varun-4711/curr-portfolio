@@ -1,4 +1,4 @@
-## Title: Varun Saxena — Software Engineer Portfolio
+## Title: Varun Saxena - Software Engineer Portfolio
 
 This repository contains the source code and assets for the personal portfolio website of Varun Saxena, a Software Engineer based in Tokyo, Japan. The site showcases projects, skills, experience, and ways to get in touch.
 
