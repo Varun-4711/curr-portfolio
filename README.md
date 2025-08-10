@@ -4,5 +4,7 @@ This repository contains the source code and assets for the personal portfolio w
 
 ## Live Website
 Portfolio URL: [https://varun-4711.github.io/curr-portfolio/]
+
 Status: Live
+
 Deployment: Github Pages
