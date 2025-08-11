@@ -15,7 +15,7 @@ const skillsData = [
   "PostgreSQL",
   "Next.js",
   "Linux", 
-  "SQL",
+  "DSA",
   "Springboot",
   "AWS S3"
   // Add/remove as needed
